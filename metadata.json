@@ -1,0 +1,6 @@
+{
+  "name": "CA Epic Academy",
+  "description": "Premium preparation companion for Indian Chartered Accountancy (CA) with customized cognitive AI agents, robust gamified challenge tracker, syllabus hubs, performance analytics, and exactly 50 pop-culture visual skins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
